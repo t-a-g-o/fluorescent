@@ -27,8 +27,8 @@ Created by [@t-a-g-o](https://github.com/t-a-g-o)
 
 ## Screenshots
 ![Showcase 1](./readme/showcase1.png)
-![Showcase 3](./readme/showcase3.png)
-![Showcase 2](./readme/showcase2.png)
+![Showcase 3](./readme/showcase2.png)
+![Showcase 2](./readme/showcase3.png)
 
 
 ## Setup
